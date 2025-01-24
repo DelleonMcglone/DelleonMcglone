@@ -1,7 +1,5 @@
 # Hi there, I'm Delleon! 👋
 
-![Banner Image](https://x.com/DataDealer_D/header_photo)
-
 ## About Me 🚀
 
 I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificial Intelligence**. I love tackling building, learning new skills, and DefAi
