@@ -22,8 +22,8 @@ I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificia
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/delleon-mcglone/)
-- **[Twitter]**(https://x.com/DataDealer_D)
-- **[Farcaster]**(https://warpcast.com/datadealer-d)
+- **LinkedIn**(https://www.linkedin.com/in/delleon-mcglone/)
+- **Twitter**(https://x.com/DataDealer_D)
+- **Farcaster**(https://warpcast.com/datadealer-d)
 
 
