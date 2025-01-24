@@ -16,7 +16,7 @@ I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificia
 
 ## Featured Projects 💻
 
-### [Mantua Metrics]
+### Mantua Metrics
 
 **Mantua Metrics** is a **Decentralized AI Exchange {DAIE} on Base, leading the DefAi  revolution** 
 
