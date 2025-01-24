@@ -6,7 +6,7 @@ I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificia
 
 - 🌱 Currently learning: **Python**
 - 🔭 Working on: **Mantua Metrics**
-- 
+  
 ## My Skills 🧠
 
 ![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
