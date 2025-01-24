@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificial Intelligence**. I love tackling building, learning new skills, and DefAi
+I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
 
 - 🌱 Currently learning: **Python**
 - 🔭 Working on: **Mantua Metrics**
