@@ -1,15 +1,14 @@
-# Hi there, I'm [Delleon]! 👋
+# Hi there, I'm Delleon! 👋
 
 ![Banner Image](https://x.com/DataDealer_D/header_photo)
 
 ## About Me 🚀
 
-I'm a passionate **[Founder]** with experience in **[SQL, Javascript, and Artificial Intelligence]**. I love tackling building, learning new skills, and DefAi
+I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificial Intelligence**. I love tackling building, learning new skills, and DefAi
 
-- 🌱 Currently learning: **[Python]**
-- 🔭 Working on: **[Mantua Metrics]**
-- 📫 How to reach me: **[Telegram:DataDealer_D, X:DataDealer_D]**
-
+- 🌱 Currently learning: **Python**
+- 🔭 Working on: **Mantua Metrics**
+- 
 ## My Skills 🧠
 
 ![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -21,9 +20,7 @@ I'm a passionate **[Founder]** with experience in **[SQL, Javascript, and Artifi
 
 ### [Mantua Metrics]
 
-![Project 1 Screenshot](file:///Users/delleonmcglone/Desktop/Screenshot%202025-01-24%20at%204.55.12%E2%80%AFPM.png)
-
-**[Mantua Metrics]** is a **[Decentralized AI Exchange {DAIE} on @Base, leading the DefAi  revolution]** 
+**Mantua Metrics** is a **Decentralized AI Exchange {DAIE} on Base, leading the DefAi  revolution** 
 
 ## Get in Touch 📬
 
