@@ -18,7 +18,7 @@ I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificia
 
 ### Mantua Protocol
 
-**Mantua Protocol** is a ** AI-native DeFi operating system that lets anyone interact with Uniswap v4 Hooks and programmable liquidity using natural language.** 
+**Mantua Protocol** is a AI-native DeFi operating system that lets anyone interact with Uniswap v4 Hooks and programmable liquidity using natural language.
 
 ## Get in Touch 📬
 
