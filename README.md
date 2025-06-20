@@ -4,8 +4,8 @@
 
 I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
 
-- 🌱 Currently learning: **Python**
-- 🔭 Working on: **Mantua Metrics**
+- 🌱 Currently learning: **Vibe Coding**
+- 🔭 Working on: **Mantua Protocol**
   
 ## My Skills 🧠
 
@@ -16,9 +16,9 @@ I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificia
 
 ## Featured Projects 💻
 
-### Mantua Metrics
+### Mantua Protocol
 
-**Mantua Metrics** is a **Decentralized AI Exchange {DAIE} on Base, leading the DefAi  revolution** 
+**Mantua Protocol** is a **Mantua is an AI-native DeFi operating system that lets anyone interact with Uniswap v4 Hooks and programmable liquidity using natural language.** 
 
 ## Get in Touch 📬
 
