@@ -17,8 +17,7 @@ I'm a passionate **Founder** with experience in **SQL, Javascript, and Artificia
 ## Featured Projects 💻
 
 ### Mantua Protocol
-
-**Mantua Protocol** The AI-native OS for programmable liquidity. Hooks for logic. Agents for action. AI for intelligence.
+The AI-native OS for programmable liquidity. Hooks for logic. Agents for action. AI for intelligence.
 
 ## Get in Touch 📬
 
