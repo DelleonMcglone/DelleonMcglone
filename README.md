@@ -2,10 +2,10 @@
 
 ## About Me 🚀
 
-I'm a passionate **Founder** with experience in **SQL, Python, and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
+I'm a passionate **Founder and Builder** with experience in **Python and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
 
 - 🌱 Currently learning: **IBM AI Developer Professional Certificate**
-- 🔭 Working on: **Mantua Protocol**
+- 🔭 Working on: **Mantua.AI**
   
 ## My Skills 🧠
 
