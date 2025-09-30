@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Founder and Builder** with experience in **Python and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
+I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
 
 - 🌱 Currently learning: **IBM AI Developer Professional Certificate**
 - 🔭 Working on: **Mantua.AI**
@@ -16,7 +16,7 @@ I'm a passionate **Founder and Builder** with experience in **Python and Artific
 
 ## Featured Projects 💻
 
-### Mantua Protocol
+### Mantua.AI
 The AI-native OS for programmable liquidity. Hooks for logic. Agents for action. AI for intelligence.
 
 ## Get in Touch 📬
