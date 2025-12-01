@@ -2,10 +2,17 @@
 
 ## About Me 🚀
 
-I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I love building & data driven analysis, learning new skills, and DefAi
+I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I build AI-powered applications, agents, workflows, and prototypes for startups and small teams. I turn ideas into working products quickly — from planning and architecture to development and deployment.
 
-- 🌱 Currently learning: **IBM AI Developer Professional Certificate**
+My 3-pillar profile:
+* What I Build: AI apps, chatbots, agents, automations, dashboards
+* What Tools I Use: Python, Node, FastAPI, LangChain, OpenAI, Anthropic, Replit, Next.js
+* What Problems I Solve: process automation, MVP builds, AI features, prototypes
+
+“AI Dev | Agents | Chatbots | Automations | Project Management”
+
 - 🔭 Working on: **Mantua.AI**
+- 🔭 Working on: **Yasuke Labs**
   
 ## My Skills 🧠
 
