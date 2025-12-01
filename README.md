@@ -1,6 +1,4 @@
-# Hi there, I'm Delleon! 👋
-
-## About Me 🚀
+## About Me 
 
 I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I build AI-powered applications, agents, workflows, and prototypes for startups and small teams. I turn ideas into working products quickly — from planning and architecture to development and deployment.
 
@@ -14,7 +12,7 @@ AI Dev | Agents | Chatbots | Automations | Project Management
 - 🔭 Working on: **Mantua.AI**
 - 🔭 Working on: **Yasuke Labs**
   
-## My Skills 🧠
+## My Skills 
 
 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
