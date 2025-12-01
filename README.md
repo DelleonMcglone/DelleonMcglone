@@ -9,7 +9,7 @@ My 3-pillar profile:
 * What Tools I Use: Python, Node, FastAPI, LangChain, OpenAI, Anthropic, Replit, Next.js
 * What Problems I Solve: process automation, MVP builds, AI features, prototypes
 
-“AI Dev | Agents | Chatbots | Automations | Project Management”
+AI Dev | Agents | Chatbots | Automations | Project Management
 
 - 🔭 Working on: **Mantua.AI**
 - 🔭 Working on: **Yasuke Labs**
