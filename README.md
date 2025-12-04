@@ -1,6 +1,6 @@
 ## About Me 
 
-I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I build AI-powered applications, agents, workflows, and prototypes for startups and small teams. I turn ideas into working products quickly — from planning and architecture to development and deployment.
+I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I build AI-powered applications, turning ideas into working products quickly — from planning and architecture to development and deployment.
 
 My 3-pillar profile:
 * What I Build: AI apps, chatbots, agents, automations, dashboards
@@ -9,8 +9,9 @@ My 3-pillar profile:
 
 AI Dev | Agents | Chatbots | Automations | Project Management
 
+- 🔭 Building: **Yasuke Labs**
 - 🔭 Working on: **Mantua.AI**
-- 🔭 Working on: **Yasuke Labs**
+- 🔭 Working on: **Mantua Sportsbook**
   
 ## My Skills 
 
@@ -37,6 +38,8 @@ DevOps & Tooling
 
 ### Mantua.AI
 The AI-native OS for programmable liquidity. Hooks for logic. Agents for action. AI for intelligence.
+### Mantua Sportsbook
+The AI-powered sports betting prediction market. 
 
 ## Get in Touch 📬
 
