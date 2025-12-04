@@ -1,6 +1,6 @@
 ## About Me 
 
-I'm a passionate **Founder and Builder** with experience in **Fullstack development, Solidity, and Artificial Intelligence**. I build AI-powered applications, turning ideas into working products quickly — from planning and architecture to development and deployment.
+I'm a passionate **Founder and Builder** with experience in **Fullstack development, and Artificial Intelligence**. I build AI-powered applications, turning ideas into working products quickly — from planning and architecture to development and deployment.
 
 My 3-pillar profile:
 * What I Build: AI apps, chatbots, agents, automations, dashboards
