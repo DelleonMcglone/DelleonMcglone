@@ -9,9 +9,8 @@ My 3-pillar profile:
 
 AI Dev | Agents | Chatbots | Automations | Project Management
 
-- 🔭 Building: **Yasuke Labs**
+- 🔭 Building: **Igbo Labs**
 - 🔭 Working on: **Mantua.AI**
-- 🔭 Working on: **Mantua Sportsbook**
   
 ## My Skills 
 
@@ -38,8 +37,6 @@ DevOps & Tooling
 
 ### Mantua.AI
 The AI-native OS for programmable liquidity. Hooks for logic. Agents for action. AI for intelligence.
-### Mantua Sportsbook
-The AI-powered sports betting prediction market. 
 
 ## Get in Touch 📬
 
