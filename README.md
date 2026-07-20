@@ -5,6 +5,6 @@ Founder of **Mantua.AI** — a natural language DeFi platform that lets anyone i
 
 - **LinkedIn**(https://www.linkedin.com/in/delleon-mcglone/)
 - **Twitter**(https://x.com/Delleonmcglone)
-- **Farcaster**(https://farcaster.xyz/delleonmcglone.eth)
+
 
 
